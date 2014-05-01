@@ -28,9 +28,9 @@ In this paper, first I present the concrete mechanism of “Technology­Driven D
 
 At the end of April 2013, I started to support one new project as an Agile Coach. The objective of the project was to develop a new smartphone application for Android and iPhone.
 
-★By Rebecca
-"Your experience report should tell your story, explain what happened, why it happened, who it happened to, and why we should care. We are interested in hearing your voice! The best experience reports share not only successes, but also challenges that were overcome, things that were tried, adaptations that were made, and how you and your organization were changed by the experience."
-So far, I haven't seen much in the paper about "who it happened to, and why we should care" and about "but also challenges that were overcome, things that were tried, adaptations that were made". It would be great if you could tell as well about things you tried and they did not work - not telling the success stories only, but as well the failed ones.
+#@ ★By Rebecca
+#@ "Your experience report should tell your story, explain what happened, why it happened, who it happened to, and why we should care. We are interested in hearing your voice! The best experience reports share not only successes, but also challenges that were overcome, things that were tried, adaptations that were made, and how you and your organization were changed by the experience."
+#@ So far, I haven't seen much in the paper about "who it happened to, and why we should care" and about "but also challenges that were overcome, things that were tried, adaptations that were made". It would be great if you could tell as well about things you tried and they did not work - not telling the success stories only, but as well the failed ones.
 
 ★What to expect
 by technical practices and methods such as CI/CD, TDD and BDD
