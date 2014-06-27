@@ -1,7 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1396582335925" ID="ID_1856520076" MODIFIED="1399884516580" TEXT="Technology&#xad;Driven Development">
-<icon BUILTIN="wizard"/>
+<node CREATED="1396582335925" ID="ID_1856520076" MODIFIED="1401697487273" TEXT="Technology&#xad;Driven Development">
 <node CREATED="1398035726587" FOLDED="true" ID="ID_927338237" MODIFIED="1398783086516" POSITION="left" TEXT="INTRODUCTION">
 <icon BUILTIN="full-1"/>
 <node CREATED="1397689851705" ID="ID_616790485" MODIFIED="1397893802911" TEXT="Introduction">
@@ -368,22 +367,22 @@
 </node>
 </node>
 </node>
-<node CREATED="1397458317359" ID="ID_314196305" MODIFIED="1400754436943" POSITION="right" TEXT="Abstract">
+<node CREATED="1397458317359" FOLDED="true" ID="ID_314196305" MODIFIED="1401697773006" POSITION="right" TEXT="Abstract">
 <arrowlink DESTINATION="ID_314196305" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_324149386" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <arrowlink DESTINATION="ID_314196305" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1984376309" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <icon BUILTIN="full-0"/>
-<node CREATED="1400754264846" ID="ID_542832146" MODIFIED="1400754270176" TEXT="3 meanings">
+<node CREATED="1400754264846" ID="ID_542832146" MODIFIED="1401697502355" TEXT="3 purposes">
 <node CREATED="1400754278601" ID="ID_322061097" MODIFIED="1400754395367" TEXT="Make the work efficient">
 <icon BUILTIN="full-1"/>
 </node>
-<node CREATED="1400754288593" ID="ID_1776084685" MODIFIED="1400754396830" TEXT="Develop cooperative relationships between the team members and stakeholders">
+<node CREATED="1400754288593" ID="ID_1776084685" MODIFIED="1401697712744" TEXT="Develop cooperative relationships between the team members and the stakeholders">
 <icon BUILTIN="full-2"/>
 </node>
 <node CREATED="1400754308598" ID="ID_523108140" MODIFIED="1400754397600" TEXT="Drive learning of the team members by technical practices and methods">
 <icon BUILTIN="full-3"/>
 </node>
 </node>
-<node CREATED="1400754323814" ID="ID_809597958" MODIFIED="1400754327370" TEXT="3 technique">
+<node CREATED="1400754323814" ID="ID_809597958" MODIFIED="1401697719363" TEXT="3 techniques">
 <node CREATED="1400754328582" ID="ID_487204448" MODIFIED="1400754399010" TEXT="CI/CD">
 <icon BUILTIN="full-1"/>
 </node>
@@ -394,54 +393,35 @@
 <icon BUILTIN="full-3"/>
 </node>
 </node>
-<node CREATED="1400754353252" ID="ID_950704342" MODIFIED="1400754358845" TEXT="Grow an Agile culture"/>
+<node CREATED="1400754353252" ID="ID_950704342" MODIFIED="1401697757048" TEXT="Grew the voluntary and supportive culture in our team"/>
 </node>
-<node CREATED="1397458449293" ID="ID_1467435629" MODIFIED="1399884414140" POSITION="right" TEXT="Introduction">
+<node CREATED="1397458449293" FOLDED="true" ID="ID_1467435629" MODIFIED="1401698612318" POSITION="right" TEXT="Introduction">
 <icon BUILTIN="full-1"/>
-<node CREATED="1399884431629" ID="ID_561876965" MODIFIED="1399886682791" TEXT="Structure of the paper">
-<icon BUILTIN="button_ok"/>
-<node CREATED="1399885140684" ID="ID_1290341834" MODIFIED="1399886680196" TEXT="paper &#x306e; overview &#x3092;&#x660e;&#x793a;&#x3067;&#x304d;&#x3066;&#x3044;&#x308b;&#x304b;&#xff1f;">
-<icon BUILTIN="button_ok"/>
-<node CREATED="1399885271269" ID="ID_1006949773" MODIFIED="1399885921449" TEXT="My result is that automation and techniques are able to drive learning and collaboration.">
-<icon BUILTIN="button_ok"/>
+<node CREATED="1399884431629" FOLDED="true" ID="ID_561876965" MODIFIED="1401698611611" TEXT="Structure of the paper">
+<node CREATED="1399885271269" ID="ID_1006949773" MODIFIED="1401697956500" TEXT="&#x8ab2;&#x984c;&#x8a2d;&#x5b9a;">
+<node CREATED="1401698298827" ID="ID_1683793940" MODIFIED="1401698315398" TEXT="There is more to software product development, namely learning and collaboration."/>
 </node>
-<node CREATED="1399885297196" ID="ID_913294516" MODIFIED="1399885906585" TEXT="Technology-Driven Development also has the power to grow an agile culture.">
-<icon BUILTIN="button_ok"/>
+<node CREATED="1399884543677" ID="ID_509248501" MODIFIED="1401698400807" TEXT="&#x8ab2;&#x984c;&#x3078;&#x306e;&#x30a2;&#x30d7;&#x30ed;&#x30fc;&#x30c1;">
+<node CREATED="1399885244284" ID="ID_1900140068" MODIFIED="1401698374771" TEXT="To achieve and show the results by these automation and development techniques in the project"/>
+<node CREATED="1399885786899" ID="ID_1778005294" MODIFIED="1401698376925" TEXT="Through working jointly"/>
 </node>
-<node CREATED="1399885306126" ID="ID_1037112082" MODIFIED="1399886599854" TEXT="Challenges">
-<icon BUILTIN="button_ok"/>
+<node CREATED="1399885306126" ID="ID_1037112082" MODIFIED="1401698115052" TEXT="Challenges"/>
+<node CREATED="1399885322168" ID="ID_1482177734" MODIFIED="1401698113641" TEXT="Conclusion">
+<node CREATED="1401698476586" ID="ID_383365310" MODIFIED="1401698489197" TEXT="Additional possibilities of automation and development techniques that drive learning and accelerate collaboration."/>
+<node CREATED="1399885297196" ID="ID_913294516" MODIFIED="1401698115660" TEXT="Technology-Driven Development also has the power to grow an agile culture."/>
 </node>
-<node CREATED="1399885322168" ID="ID_1482177734" MODIFIED="1399886602464" TEXT="Conclusion">
-<icon BUILTIN="button_ok"/>
-</node>
-</node>
-</node>
-<node CREATED="1399884524176" ID="ID_998578133" MODIFIED="1399885157643" TEXT="&#x8ab2;&#x984c;&#x8a2d;&#x5b9a;&#x3092;&#x660e;&#x793a;&#x3067;&#x304d;&#x3066;&#x3044;&#x308b;&#x304b;&#xff1f;">
-<icon BUILTIN="button_ok"/>
-<node CREATED="1399885101911" ID="ID_1665103451" MODIFIED="1399885827705" TEXT="The automation and techniques have the power of learning and collaboration, aside from streamlining.">
-<icon BUILTIN="button_ok"/>
-</node>
-<node CREATED="1399885821328" ID="ID_771519630" MODIFIED="1399885828413" TEXT="Although streamlining the work is valuable, there is more to software product development, namely learning and collaboration.">
+<node CREATED="1399885140684" ID="ID_1290341834" MODIFIED="1401697899221" TEXT="Clarified the overview of the paper">
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node CREATED="1399884543677" ID="ID_509248501" MODIFIED="1399885834324" TEXT="&#x8ab2;&#x984c;&#x3078;&#x306e;&#x30a2;&#x30d7;&#x30ed;&#x30fc;&#x30c1;&#x306f;&#x660e;&#x793a;&#x3067;&#x304d;&#x3066;&#x3044;&#x308b;&#x304b;&#xff1f;">
-<icon BUILTIN="button_ok"/>
-<node CREATED="1399885244284" ID="ID_1900140068" MODIFIED="1399885835455" TEXT="To achieve and show the results by these automation techniques in the project.">
-<icon BUILTIN="button_ok"/>
-</node>
-<node CREATED="1399885786899" ID="ID_1778005294" MODIFIED="1399885834893" TEXT="through working jointly">
-<icon BUILTIN="button_ok"/>
-</node>
-</node>
-<node CREATED="1397458507255" ID="ID_1464335582" MODIFIED="1400754574720" TEXT="Conditions &amp; challenges">
+<node CREATED="1397458507255" FOLDED="true" ID="ID_1464335582" MODIFIED="1401698240687" TEXT="Conditions &amp; challenges">
 <node CREATED="1400754463282" ID="ID_1154464701" MODIFIED="1400754638130" TEXT="None of the team members had any experience with agile">
 <icon BUILTIN="full-1"/>
 </node>
 <node CREATED="1400754474013" ID="ID_1566595911" MODIFIED="1400754639063" TEXT="There had been many manual operations">
 <icon BUILTIN="full-2"/>
 </node>
-<node CREATED="1400754495242" ID="ID_615942441" MODIFIED="1400754640640" TEXT="3 roles">
+<node CREATED="1400754495242" FOLDED="true" ID="ID_615942441" MODIFIED="1401698014005" TEXT="3 roles">
 <icon BUILTIN="full-3"/>
 <node CREATED="1400754502502" ID="ID_1197313250" MODIFIED="1400754502860" TEXT="business analyst"/>
 <node CREATED="1400754509160" ID="ID_1281972639" MODIFIED="1400754509670" TEXT="UI/UX designer"/>
@@ -456,14 +436,14 @@
 <node CREATED="1400754574720" ID="ID_1676311937" MODIFIED="1400754643423" TEXT="Most of the team members were young and immature.">
 <icon BUILTIN="full-5"/>
 </node>
-<node CREATED="1400754598042" ID="ID_1590220060" MODIFIED="1400754644549" TEXT="Most of the team members did not have any experience with half-an-hour project">
+<node CREATED="1400754598042" ID="ID_1590220060" MODIFIED="1401698051529" TEXT="Most of the team members did not have any experience with half-a-year project">
 <icon BUILTIN="full-6"/>
 </node>
 <node CREATED="1400754627103" ID="ID_1066598866" MODIFIED="1400754648777" TEXT="The team was divided into two locations">
 <icon BUILTIN="full-7"/>
 </node>
 </node>
-<node CREATED="1397458521255" ID="ID_365316004" MODIFIED="1399884457611" TEXT="The approach">
+<node CREATED="1397458521255" FOLDED="true" ID="ID_365316004" MODIFIED="1401697987193" TEXT="The approach">
 <node CREATED="1399884462966" ID="ID_1125134078" MODIFIED="1400754441396" TEXT="CI/CD">
 <icon BUILTIN="full-1"/>
 </node>
@@ -560,7 +540,9 @@
 </node>
 <node CREATED="1398035992918" ID="ID_1243337860" MODIFIED="1398036127121" TEXT="Challenges">
 <node CREATED="1398518327753" ID="ID_550269916" MODIFIED="1398518343891" TEXT="&#x9032;&#x3093;&#x3067;&#x3044;&#x308b;&#x3053;&#x3068;&#x306f;&#x308f;&#x304b;&#x308b;&#x304c;&#x3001;&#x3044;&#x3064;&#x307e;&#x3067;&#x306b;&#x3069;&#x3053;&#x307e;&#x3067;&#x51fa;&#x6765;&#x308b;&#x304b;&#x307e;&#x3067;&#x306f;&#x5206;&#x304b;&#x3089;&#x306a;&#x304b;&#x3063;&#x305f;"/>
-<node CREATED="1398036035728" ID="ID_1358893896" MODIFIED="1398036044412" TEXT="TestFlight &#x304c; Android &#x3067;&#x4f7f;&#x3048;&#x306a;&#x304f;&#x306a;&#x3063;&#x305f;&#xff03;"/>
+<node CREATED="1398036035728" ID="ID_1358893896" MODIFIED="1398036044412" TEXT="TestFlight &#x304c; Android &#x3067;&#x4f7f;&#x3048;&#x306a;&#x304f;&#x306a;&#x3063;&#x305f;&#xff03;">
+<node CREATED="1401688017791" ID="ID_360810558" MODIFIED="1401688021725" TEXT="nuun"/>
+</node>
 </node>
 </node>
 <node CREATED="1397898088616" ID="ID_1951145084" MODIFIED="1397898092091" POSITION="left" TEXT="&#x3069;&#x3053;&#x306b;&#x5165;&#x308c;&#x308b;&#xff1f;">
